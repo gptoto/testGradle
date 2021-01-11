@@ -36,4 +36,4 @@ dependencies {
 
 }
 
-mainClassName = 'testgradle.App'
+mainClassName = 'testGradle.App'
